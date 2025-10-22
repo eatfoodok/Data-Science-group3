@@ -5,4 +5,4 @@ For our random forest model, the code is in the random_forest.py. We want to ide
 For the logistic regression, we look at how the people are migrating, separating the types into Migration_1 (Inter-provincial), 
 Migration_2 (Intra-provincial/Inter-city), Migration_3 (Intra-city/Inter-county). Our determinates are drawn from the ratio of the variable after migration over the variable before migration or (xxx_a / xxx_b). We looked at the variables: personal gdp, average temp, lowest temp, highest temp, managable income, population, precipitation, road length, gdp per capita.
 
-The dataset itself is in the directory "panel_data_1021".
+The dataset itself is too big to upload, the data sample is in the sample.csv.
